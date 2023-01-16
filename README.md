@@ -1,5 +1,5 @@
 ---
-# Today i learned the things i love !
+# Today i learned about the things i love !
 
 test\
 test\
