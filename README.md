@@ -1,5 +1,3 @@
-### Hi there 👋👋
-
 # Today i leaned the things i love !
 
 <!--
