@@ -1,11 +1,12 @@
 ---
 # Today i leaned the things i love !
----
-test\
-test\
-test\
----
 
+test\
+test\
+test\
+---
+# 　
+---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
