@@ -4,8 +4,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongr5102)](https://solved.ac/dongr5102/)
 
 # 🛠️ SKILLS
+## 🔨 Languages
+## 🔧 Tools
 
-# TEST
+# CONTACT
 
 
 <!--
