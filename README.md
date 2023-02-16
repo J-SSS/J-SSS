@@ -6,6 +6,7 @@
 ## 🛠️ SKILLS
 ### 　🔨 Languages
 　![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Buy%20Me%20A%20Coffee&logoColor=white)
+![SPRING](https://img.shields.io/badge/=>-000000.svg?&style=for-the-badge&logo=&logoColor=white)
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 \
