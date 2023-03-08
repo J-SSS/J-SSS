@@ -28,8 +28,8 @@
 ### 　🔧 Tools
 　![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
  \
- 　![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?&style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)
-![Microsoft #B7472A](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A.svg?&style=for-the-badge&logo=Microsoft%20PowerPoint&logoColor=white)
+ 　![Microsoft Excel](https://img.shields.io/badge/Excel-217346.svg?&style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)
+![Microsoft #B7472A](https://img.shields.io/badge/PowerPoint-B7472A.svg?&style=for-the-badge&logo=Microsoft%20PowerPoint&logoColor=white)
  
 ## ✉️ CONTACT : dongr5102@naver.com
 
