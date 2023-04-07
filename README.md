@@ -16,7 +16,7 @@
 #### 　💾 DataBase
 　![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
  \
-　![JPA](https://img.shields.io/badge/JPA-808080.svg?&style=for-the-badge&logo=Buy%20Me%20A%20Coffee&logoColor=white)
+　![Mybatis](https://img.shields.io/badge/JPA-808080.svg?&style=for-the-badge&logo=Buy%20Me%20A%20Coffee&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?&style=for-the-badge&logo=Sequelize&logoColor=white)
 #### 　🎨 MarkUp
 　![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
